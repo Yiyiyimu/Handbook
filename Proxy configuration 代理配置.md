@@ -1,4 +1,4 @@
-## Github
+## Github (解决国内下github速度慢)
 
 git config --global http.https://github.com.proxy socks5://127.0.0.1:1080
 
@@ -13,7 +13,7 @@ git config --global --unset https.proxy
 
 Reference：https://www.zhihu.com/question/27159393/answer/141047266
 
-## cmd
+## cmd (解决国内挂vcpkg速度慢)
 
 set http_proxy=http://127.0.0.1:1080
 
