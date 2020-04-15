@@ -1,6 +1,7 @@
 ## Github (解决国内下github速度慢)
 
 git config --global http.proxy 'socks5://127.0.0.1:1080'
+
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
 **To Cancel:**
