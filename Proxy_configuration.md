@@ -19,6 +19,10 @@ set http_proxy=http://127.0.0.1:1080
 
 set https_proxy=http://127.0.0.1:1080
 
+**For git-bash**
+
+replace **set** with **export**
+
 **To test:**
 
 curl -vv google.com
